@@ -2,7 +2,7 @@
 
 # Update .zshrc with alias
 alias_lines=(
-  "alias opacity='~/Tools/Custom/Bash/config_editor/alacritty/opacity.sh'"
+  "alias opacity='~/Tools/Custom/Bash/config_editor/alacritty/opacity/opacity.sh'"
 )
 
 # To ensure the last line of ~/.zshrc is empty
