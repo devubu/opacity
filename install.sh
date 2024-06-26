@@ -27,3 +27,6 @@ for alias_line in "${alias_lines[@]}"; do
     # echo "Alias already exists in ~/.zshrc: $alias_line"
   fi
 done
+
+# Source the updated .zshrc
+source ~/.zshrc
