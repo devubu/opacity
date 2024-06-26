@@ -1,5 +1,8 @@
 #!/bin/zsh
 
+# Set the executable permission for the script
+chmod +x ~/Tools/Custom/Bash/config_editor/alacritty/opacity/opacity.sh
+
 # Update .zshrc with alias
 alias_lines=(
   "alias opacity='~/Tools/Custom/Bash/config_editor/alacritty/opacity/opacity.sh'"
